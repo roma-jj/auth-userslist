@@ -1,0 +1,17 @@
+.container_users {
+    width: 100%;
+}
+
+.container_usersButtons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container_usersCards {
+    padding-top: 35px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
